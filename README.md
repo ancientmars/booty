@@ -5,4 +5,4 @@ This is the booty sample application for
 
 I'm da boss. 
 
-by [nicole](http://instagram.com/ancienmars)
+by [nicole](http://instagram.com/ancientmars)
