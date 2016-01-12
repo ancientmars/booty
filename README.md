@@ -1,7 +1,7 @@
 # One Month Rails
 
 This is the booty sample application for 
-[*Booty*](http://instagram.com/ancientmars)
+[*Booty*](http://github.com)
 
 I'm da boss. 
 
